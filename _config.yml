@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://softwarecraftsmanshipmadrid.org
+title: Software Craftsmanship Madrid
+email: your-email@domain.com
+author: Software Craftsmanship Madrid
+description: > # "Official website for the Madrid Software Craftsmanship group.
+copyright: 'Copyright &copy; 2016 Software Craftsmanship Madrid. All Rights Reserved.'
+credits: 'Template by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: meetup
+    url: https://www.meetup.com/es-ES/madswcraft/
+  - title: twitter
+    url: https://twitter.com/craftsmanmadrid
+  - title: github
+    url: https://github.com/SoftwareCraftsmanshipMadrid
